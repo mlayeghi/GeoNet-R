@@ -2,7 +2,7 @@
 ### R code for constructing metacommunity networks using geographic coordinates of the sites (local communities within a landscape) and presence-absence of multiple taxa within the sites.
 
 ## Usage:
-1) Load this file:
+1) Load main code file:
 ```
       source("path/Main_GeoNet.r")
 ```
