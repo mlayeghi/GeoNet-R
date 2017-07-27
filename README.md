@@ -3,8 +3,9 @@
 
 ## Usage:
 1) Load this file:
+```
       source("path/Main_GeoNet.r")
-
+```
 2) Read presence-absence data:
 ```
       incid <- read_incid(filename, header=T, sep="\t", row_names=T)
